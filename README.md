@@ -115,7 +115,14 @@ What I'm Do </p>
  <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uttambodara&show_icons=true&locale=en&layout=compact" alt="uttambodara" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uttambodara&show_icons=true&locale=en" alt="uttambodara" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uttambodara&" alt="uttambodara" /></p>
 
 
 <br>
