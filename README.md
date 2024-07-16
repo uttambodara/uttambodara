@@ -71,7 +71,7 @@ What I'm Do </p>
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,figma,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,figma,html,css" />
   </a>
 </p>
 
