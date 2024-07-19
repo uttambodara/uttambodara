@@ -44,7 +44,7 @@ What I'm Do </p>
 
 - 📫 How to reach me **uttambodra4243@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://uttambodara.netlify.com)
+- 📄 Know about my experiences [my experiences](http://uttambodara.netlify.app)
 
 - ⚡ Fun fact **I think I'm funny**
 
