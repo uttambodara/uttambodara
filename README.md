@@ -1,10 +1,10 @@
 <!--💬TYPINGSVG -->
-   <p align="center"><a href="https://github.com/Hunterdii"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=10000000000000&color=27ae60&center=true&vCenter=true&random=false&width=435&lines=%E0%AA%95%E0%AB%87%E0%AA%AE+%E0%AA%9B%E0%AB%8B%F0%9F%99%8F%2C+%E2%80%8B%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Het+Patel!"  alt="Typing SVG" align="center"  /></a>
+   <p align="center"><a href="https://github.com/uttambodara"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=10000000000000&color=27ae60&center=true&vCenter=true&random=false&width=435&lines=%E0%AA%95%E0%AB%87%E0%AA%AE+%E0%AA%9B%E0%AB%8B%F0%9F%99%8F%2C+%E2%80%8B%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Uttam+Bodara!"  alt="Typing SVG" align="center"  /></a>
 
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/Hunterdii">
-    <img src="https://readme-typing-svg.demolab.com?lines=Full-Stack%20Web%20And%20App%20Developer;Future%20Cyber%20Security%20Professional;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=22&center=true&vCenter=true&width=440&height=45&color=f75c7e&pause=1000" align="center" /></a>
+  <a href="https://github.com/uttambodara">
+  <img src="https://readme-typing-svg.demolab.com?lines=M.Sc.%20High%20Integrity%20Systems%20Aspirant;Cybersecurity%20Graduate%20%7C%20TryHackMe%20Top%201%25;Pentester%20And%20Bug%20Bounty%20Hunter;Exploring%20Formal%20Verification%20And%20System%20Safety;Building%20Secure%20And%20Dependable%20Systems&font=Shantell+Sans&size=22&center=true&vCenter=true&width=750&height=45&color=f75c7e&pause=1000" align="center" />
 </p>
 
 
@@ -33,45 +33,81 @@
   </tr>
 </table>
 
-</p></h2>
+</p>
+
+</h2>
+
 <!--💻Big SVG Coding-->
-  <a href="https://github.com/Hunterdii">
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"></a>
+  <a href="https://github.com/uttambodara">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="290"></a>
 
-<!--💫 About Me-->
+<!-- 💫 About Me -->
 
+## 👨‍💻 About Me
 
-### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm **Uttam Bodara**, a Cybersecurity Graduate from India with a strong interest in **Secure, Reliable, and Safety-Critical Systems**.
 
-* **CyberSecurity & Forensics** 🔐
-* **MongoDB** 🍃
-* **DevOps** ☁️
-* **React.js & React Native** ⚛️
+🔐 TryHackMe Top 1% Global Rank  
+🛡️ Pentester & Bug Bounty Hunter  
+💻 Web Developer at MageTornado  
+🎓 M.Sc. High Integrity Systems Aspirant  
+⚙️ Exploring Formal Verification & Dependable Software  
+🇩🇪 Preparing for Higher Studies in Germany
 
+---
 
+### 🚀 Currently Exploring
 
-### 💻 I'm working on
+* **High Integrity Systems** ⚙️
+* **Formal Verification** ✅
+* **Cybersecurity & Penetration Testing** 🔐
+* **System Safety Engineering** 🚦
+* **React & Modern Web Development** ⚛️
+* **DevOps & Linux** ☁️
 
-* **My Portfolio Website** 💼
-* **Festivity Flippers (My StartUp)** 🚀
+---
 
+### 💼 Professional Experience
 
-### 🌱 Goals for 2026
+* 🌐 Web Developer at **MageTornado**
+* 🛒 Building Shopify & WordPress Solutions
+* 🎨 UI/UX Design using Figma
+* 🔒 Security Research & Vulnerability Assessment
 
+---
 
-- [ ] 🏆 Participate in **10+ Hackathons** and **win 2+**  
-- [ ] 💼 Land internships at **2+ top tech companies**  
-- [ ] 🛠️ Build **30+ impactful projects**  
-- [x] 🤖 Explore **AI × CyberSecurity** innovations  
-- [ ] 🌐 Contribute to **Open Source** projects  
-- [ ] 📈 Scale **Festivity Flippers** into a real startup  
-- [ ] ✍️ Launch my **personal tech blog/portfolio**
-- [ ] 🚀 Complete **#100DaysOfCode (Level 2)**  
+### 🛠️ Featured Projects
 
-### 💭 Ask me about
+* 🔍 Python-Based Network Scanner
+* 🛡️ Web Application Vulnerability Assessment
+* 🧹 VIPBroom E-Commerce Platform
+* 🌐 Multiple Client Websites & E-Commerce Solutions
 
-* **Designing** 🎨
-* and **anything tech-related**... ❓
+---
+
+### 🎯 Goals for 2026
+
+- [ ] 🇩🇪 Start M.Sc. in High Integrity Systems
+- [ ] 📚 Master Formal Verification Fundamentals
+- [ ] 🛡️ Reach New Milestones in Bug Bounty Hunting
+- [ ] 🌍 Contribute to Open Source Security Projects
+- [ ] ✍️ Publish Technical Articles & Research Notes
+- [ ] ⚙️ Build Secure & Reliable Software Systems
+- [ ] 🚀 Launch More Innovative Side Projects
+- [ ] 📈 Grow My Technical Network Internationally
+
+---
+
+### 💬 Ask Me About
+
+* Cybersecurity & Pentesting 🔐
+* TryHackMe & CTFs 🎯
+* Web Development 🌐
+* UI/UX Design 🎨
+* WordPress & Shopify 🛒
+* Career & Study Abroad Journey 🇩🇪
+
+> "Knowing how to break a system is valuable. Knowing how to build one that never fails is even better."
 
 <a href="https://buymeacoffee.com/het81857">
   <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/>
