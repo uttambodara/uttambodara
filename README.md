@@ -295,11 +295,6 @@ I'm **Uttam Bodara**, a Cybersecurity Graduate from India with a strong interest
 <img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a> Competitive Coding</h2>
   </summary>
     
-[![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/hunterdii9879)
-[![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-Hunterdii-green)](https://auth.geeksforgeeks.org/user/Hunterdii)	
-[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/Hunterdii/)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-2ecc71?style=flat&labelColor=000000&logo=TryHackMe&logoColor=red)](https://tryhackme.com/p/Hunterdii)
-
 <!-- Quotes Section -->
 <div align="center">
         
@@ -317,7 +312,7 @@ I'm **Uttam Bodara**, a Cybersecurity Graduate from India with a strong interest
     <table>
       <tr>
         <td align="center">
-          <a href="https://github.com/Hunterdii?tab=stars">
+          <a href="https://github.com/uttambodara?tab=stars">
             <b>MY STARRED REPOS <br> AND TOPICS 🌟</b>
           </a>
         </td>
@@ -334,9 +329,9 @@ I'm **Uttam Bodara**, a Cybersecurity Graduate from India with a strong interest
 </details>
 
 <details> 
-  <summary><h2><a href="https://github.com/Hunterdii">
+  <summary><h2><a href="https://github.com/uttambodara">
 <img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width = 35px height = 35px></a> Stats and Activity</h2>
-  <a href="https://github.com/Hunterdii">
+  <a href="https://github.com/uttambodara">
   </summary>
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <!-- <p align="center">
@@ -350,7 +345,7 @@ I'm **Uttam Bodara**, a Cybersecurity Graduate from India with a strong interest
   
 <!--🔝 Rank Gitthub Appearance-->
   <!--<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hunterdii&theme=github_dark&rank_icon=github&show_icons=true&count_private=true&hide_border=true" />-->
-  <img src="https://gh-readme-profile.vercel.app/api?username=Hunterdii&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
+  <img src="https://gh-readme-profile.vercel.app/api?username=uttambodara&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
   <br>
 
 <!--📏LINE-->
@@ -359,7 +354,7 @@ I'm **Uttam Bodara**, a Cybersecurity Graduate from India with a strong interest
 
   </br>
   <!--🏆 GitHub Streak-->
-  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hunterdii&theme=github-dark-blue&hide_border=true" />
+  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=uttambodara&theme=github-dark-blue&hide_border=true" />
   
 </td>
 
@@ -379,20 +374,20 @@ I'm **Uttam Bodara**, a Cybersecurity Graduate from India with a strong interest
 <table width="100">
         <tr border="0">
       <td align='center' width="1010">
-  <img  align="center"  src="https://github-readme-activity-graph.vercel.app/graph/?username=Hunterdii&theme=github-dark&hide_border=true&area=true" img alt="Hunterdii's Activity Graph"/>
+  <img  align="center"  src="https://github-readme-activity-graph.vercel.app/graph/?username=uttambodara&theme=github-dark&hide_border=true&area=true" img alt="Hunterdii's Activity Graph"/>
 </td>
 </tr>
 </table>
 <!--🏗️ Contributions (3D View)-->
-<h3>🏗️ Contributions (3D View) </h3> 
+<h3>🏗️ Contributions (View) </h3> 
 <div align="center">
         
-![3D-Graph-Contribution](https://raw.githubusercontent.com/Hunterdii/Hunterdii/main/profile-3d-contrib/profile-night-green.svg)
+![Contribution](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 </div>
 </details>
 
 <details>
-  <summary><h2 align='center'><a href="https://github.com/Hunterdii">
+  <summary><h2 align='center'><a href="https://github.com/uttambodara">
 <img src="https://github.com/user-attachments/assets/11fc054d-081b-4f1e-8d9e-84b3e10f49bc" width = 35px height = 35px></a> Holopin Badges</h2>
   </summary>
   <p><a href="https://www.holopin.io/@hunterdii"><img src="https://www.holopin.me/@hunterdii" alt="@hunterdii&#39;s Holopin board"></a></p>
