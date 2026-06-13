@@ -386,14 +386,6 @@ I'm **Uttam Bodara**, a Cybersecurity Graduate from India with a strong interest
 </div>
 </details>
 
-<details>
-  <summary><h2 align='center'><a href="https://github.com/uttambodara">
-<img src="https://github.com/user-attachments/assets/11fc054d-081b-4f1e-8d9e-84b3e10f49bc" width = 35px height = 35px></a> Holopin Badges</h2>
-  </summary>
-  <p><a href="https://www.holopin.io/@hunterdii"><img src="https://www.holopin.me/@hunterdii" alt="@hunterdii&#39;s Holopin board"></a></p>
-  
-</details>
-
 <!--### :sparkles: [Trendsetters(Supporters)](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
@@ -434,7 +426,7 @@ I'm **Uttam Bodara**, a Cybersecurity Graduate from India with a strong interest
  <!--💵 buymeacoffee-->
 </details>
 <div align="center">
-  <a href='https://www.buymeacoffee.com/het81857' target='_blank'>
+  <a href='https://www.buymeacoffee.com/uttambodara' target='_blank'>
     <img height='64' style='border:0px;height:64px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-red.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
   </a>
 </div>
