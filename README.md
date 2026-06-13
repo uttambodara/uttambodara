@@ -1,6 +1,5 @@
 <!--💬TYPINGSVG -->
-   <p align="center"><a href="https://github.com/uttambodara"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=10000000000000&color=27ae60&center=true&vCenter=true&random=false&width=435&lines=%E0%AA%95%E0%AB%87%E0%AA%AE+%E0%AA%9B%E0%AB%8B%F0%9F%99%8F%2C+%E2%80%8B%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Uttam+Bodara!"  alt="Typing SVG" align="center"  /></a>
-
+   <p align="center"><a href="https://github.com/uttambodara"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=66F794&width=435&lines=%F0%9F%91%8B+Hallo+zusammen%2C++ich+bin+Uttam+Bodara." alt="Typing SVG"  align="center" /></a> 
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/uttambodara">
@@ -39,7 +38,7 @@
 
 <!--💻Big SVG Coding-->
   <a href="https://github.com/uttambodara">
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="290"></a>
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHk3MTFmdW1wbWwxbnNtMHM1NWdoOXVoNXRsMDhva3hqeDR5ZDQwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" width="290" ></a>
 
 <!-- 💫 About Me -->
 
