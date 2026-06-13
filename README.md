@@ -456,52 +456,110 @@ A little more about me...</h2></summary>
 
  ```python
 # Who I Am 💫
-class WhoIsThis 🧑‍💻:
-    user = "Patel HetKumar SandipBhai 👨"
-    current_year = "2025 📆"
-    current_work = "Writing code with music essentials 🎧💻✨"
-    current_city = "Vadodara, Gujarat 🇮🇳 🌍"
-    current_project = "Developing a Web-App: FestivityFlippers 🎉🎯"
 
-    hobbies = [
-            "Singing 🎤", "Travelling Like All Others ✈️🌍", "Drawing ✏️🎨",
-            "Watching old romantic movies 🎬❤️", "Being up all night chasing that ONE BUG... 🐞🌙💡"
+class WhoIsThis 🧑‍💻:
+    
+    user = "Uttam Bodara 👨‍💻"
+    current_year = "2026 📆"
+    
+    current_status = "Final Year B.Sc. IT Student at Parul University 🎓"
+    current_work = "Cybersecurity Enthusiast | Freelancer | German Learner 💻🔐📚"
+    
+    current_city = "Surat, Gujarat 🇮🇳"
+    
+    current_projects = [
+        "Awesome-Security GitHub Repository 🔥",
+        "VIPBroom E-Commerce Platform 🧹",
+        "Cybersecurity Learning & Research 🛡️",
     ]
 
-    favorite_singers = {
-        "Gujarati": ["Sachin-Jigar 🎶", "Aditya Gadhvi 🎵", "Gazals: Manhar Udhas 🎤"],
-        "Hindi": ["Arijit Singh 🎶", "Darshan Raval 🎵", "KK 🎤", "Atif Aslam 🎶", 
-                  "Vishal-Shekhar 🎹", "Ankit Tiwari 🎼", "Mithoon 🎵"],
-        "Punjabi": ["Harnoor B 🎶", "B Praak 🎵", "AP Dhillon 🎤", "Kaka 🎶", "Jass Manak 🎵"],
-        "English": ["Ed Sheeran 🎸", "Alan Walker 🎧", "Ruth B 🎤", "Adam Levine 🎵"]
+    education = {
+        "Degree": "B.Sc. Information Technology 🎓",
+        "University": "Parul University 🏛️",
     }
 
-    favorite_music_directors = ["R.D. Burman 🎶", "Pritam 🎵"]
-
-    ask_me_about = [
-                 "Web Development 🌐", "App Development 📱", 
-                 "Foody Talks 🍔", "Singing 🎤", "Creative Drawing ✏️"
+    skills = [
+        "Cybersecurity 🔐",
+        "Web Development 🌐",
+        "UI/UX Design 🎨",
+        "WordPress Development ⚙️",
+        "Shopify Development 🛒",
+        "SEO 📈",
+        "Poster Design 🖌️"
     ]
 
-    architecture_interest = ["Serverless Architecture 🧩", "Progressive Web Apps ⚙️", "Single Page Applications 🖥️"]
+    hobbies = [
+        "Exploring Cybersecurity Labs 🛡️",
+        "Building Websites 🌐",
+        "Learning New Technologies 💡",
+        "Watching Cricket 🏏",
+        "Creating Design Posters 🎨",
+        "Listening to Music 🎧",
+        "Learning German🔍",
+        "Late-Night Debugging Sessions 🌙🐞"
+    ]
+
+    favorite_topics = {
+        "Cybersecurity": [
+            "Penetration Testing 🔥",
+            "Web Security 🌐",
+            "CTFs 🏴",
+            "Vulnerability Assessment 🔎"
+        ],
+        
+        "Technology": [
+            "Artificial Intelligence 🤖",
+            "Cloud Computing ☁️",
+            "System Safety ⚙️",
+            "Formal Verification 📖"
+        ]
+    }
+
+
+    relationship_status = "Single❤️"
+    special_person = "Lord Krishna 💖"
+
+    ask_me_about = [
+        "Cybersecurity 🔐",
+        "Ethical Hacking 🕵️",
+        "IELTS Preparation 📚",
+        "Web Development 🌐",
+        "UI/UX Design 🎨",
+        "Freelancing 💼",
+        "Germany Study Plans 🇩🇪"
+    ]
+
+    architecture_interest = [
+        "Cloud Computing ☁️",
+        "Secure Systems 🔐",
+        "E-Commerce Architecture 🛒",
+        "High Integrity Systems ⚙️"
+    ]
 
     get_my_ambitions = [
-            "Master Cloud Computing ☁️",
-            "Crack a Google Interview and work at Google 💼✨",
-            "Build a Cross-Platform Game 🎮",
-            "Win a Design or Code Hackathon 🏆",
-            "Give a TED Talk on Tech + Creativity 🎤🧠",
-            "Build a Personal AI Assistant 🤖",
-            "Contribute to the Developer Community via YouTube or Blogs 📹✍️",
-            "Launch My Own Android App Startup 🚀📱",
-            "Record a Cover Song and Post on Spotify 🎶",
-            "Mentor Students or Juniors in Tech 👨‍🏫",
-            "Drink less coffee... maybe ☕😅"
-            # More dreams loading... 🔄😉
-        ]
+        "Master the German Language 🇩🇪",
+        "Become a Top Cybersecurity Professional 🔐",
+        "Work on Critical Infrastructure Security 🚆",
+        "Build International Tech Products 🚀",
+        "Create One of the Best Cybersecurity Resources on GitHub 🔥",
+        "Help Businesses Secure Their Digital Assets 🛡️",
+        "Contribute to the Cybersecurity Community 👨‍💻"
+    ]
+
+    certifications_loading = "Always Learning... 🔄📚"
+
+    life_motto = (
+        "Keep learning, keep building, "
+        "and never stop improving. 🚀"
+    )
+
 
 # 😄 Fun Fact
-fun_fact = "There are two ways to write error-free programs; only the third one works. 😅"
+
+fun_fact = (
+    "I can spend hours finding a security vulnerability 🔐, "
+    "but sometimes spend even longer finding a missing semicolon. 😅"
+)
 ```
 
 <!--<div align="center">
