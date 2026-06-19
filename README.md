@@ -49,9 +49,7 @@ I'm **Uttam Bodara**, a Cybersecurity Graduate from India with a strong interest
 🔐 TryHackMe Top 1% Global Rank  
 🛡️ Pentester & Bug Bounty Hunter  
 💻 Web Developer at MageTornado  
-🎓 M.Sc. High Integrity Systems Aspirant  
 ⚙️ Exploring Formal Verification & Dependable Software  
-🇩🇪 Preparing for Higher Studies in Germany
 
 ---
 
