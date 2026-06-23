@@ -125,34 +125,6 @@ I'm **Uttam Bodara**, a Cybersecurity Graduate from India with a strong interest
 
 <!--📘 Check Out My Open Source Work-->
 
-<details open> 
-  <summary>
-     <h2>  <a href="https://github.com/uttambodara">
-    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
-   Check Out My Open Source Work </h2>
-
-  <a href="https://github.com/uttambodara">
-    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px">
-  </a>
-  </summary>
-
-<a href="https://github.com/sponsors/uttambodara/">
-    <img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=Teal&logo=link-external"/>
-  </a>
-<p align="left">
-    <a href="https://github.com/uttambodara/TryHackMeRoadmap">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uttambodara&repo= CyberElite&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="GeeksforGeeks-POTD"></a>
-    <a href="https://github.com/uttambodara/CyberElite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=Smart-AI-Resume-Analyzer&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Smart-AI-Resume-Analyzer"></a>
-   <a href="https://github.com/uttambodara/Tiny-XSS-Payloads"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=tryhackme-free-rooms&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="tryhackme-free-rooms"></a>
-    <a href="https://github.com/Hunterdii/Awesome-Hacking"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=Awesome-Hacking&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Awesome-Hacking"></a>
-       <a href="https://github.com/Hunterdii/30-Days-Of-Rust"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=30-Days-Of-Rust&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="30-Days-Of-Rust"></a>
-       <a href="https://github.com/Hunterdii/Awesome-Java"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=Awesome-Java&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Awesome-Java"></a>
-</p>
-
-  <a href="https://github.com/Hunterdii?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=Teal&logo=repo"/>
-  </a>
-
 <!--<h3>⏳ GitHub Activity Logs 📜</h3>-->
 
 <!--START_SECTION:activity-->
