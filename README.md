@@ -127,21 +127,21 @@ I'm **Uttam Bodara**, a Cybersecurity Graduate from India with a strong interest
 
 <details open> 
   <summary>
-     <h2>  <a href="https://github.com/Hunterdii">
+     <h2>  <a href="https://github.com/uttambodara">
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
    Check Out My Open Source Work </h2>
 
-  <a href="https://github.com/Hunterdii">
+  <a href="https://github.com/uttambodara">
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px">
   </a>
   </summary>
 
-<a href="https://github.com/sponsors/Hunterdii/">
+<a href="https://github.com/sponsors/uttambodara/">
     <img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=Teal&logo=link-external"/>
   </a>
 <p align="left">
     <a href="https://github.com/uttambodara/TryHackMeRoadmap">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=GeeksforGeeks-POTD&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="GeeksforGeeks-POTD"></a>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uttambodara&repo= CyberElite&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="GeeksforGeeks-POTD"></a>
     <a href="https://github.com/uttambodara/CyberElite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=Smart-AI-Resume-Analyzer&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Smart-AI-Resume-Analyzer"></a>
    <a href="https://github.com/uttambodara/Tiny-XSS-Payloads"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=tryhackme-free-rooms&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="tryhackme-free-rooms"></a>
     <a href="https://github.com/Hunterdii/Awesome-Hacking"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=Awesome-Hacking&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Awesome-Hacking"></a>
