@@ -17,18 +17,14 @@
       <a href="https://twitter.com/HetPate94938685"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" width="60"></a>
     </td>
     <td align="center" width="60">
-      <a href="https://www.youtube.com/@alpharoman9602"><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/youtube-icon.png" height="33" width="100"></a>
+      <a href="https://www.youtube.com/@UttamXcreation"><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/youtube-icon.png" height="33" width="100"></a>
     </td>
     <td align="center" width="60">
       <a href="https://discord.com/channels/1106636869795590254/1106636869795590257"><img src="https://user-images.githubusercontent.com/29790345/184599637-8ba21112-adc2-400a-8931-b071b74fb2a7.png?raw=true" height="80" width="84"></a>
     </td>
     <td align="center" width="60">
-      <a href="mailto:het8185@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
+      <a href="mailto:uttambodra4243@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
     </td>
-    <td align="center" width="60">
-      <a href="https://drive.google.com/file/d/16ZHjr8T6I05DB3u1ynyjKJ9K8ObG36kq/view?usp=sharing"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
-    </td>
-
   </tr>
 </table>
 
